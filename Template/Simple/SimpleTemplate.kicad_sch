@@ -1,0 +1,20 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid f4a4424d-a0d4-4a4a-bca8-eb3e49a1f0eb)
+
+  (paper "A4")
+
+  (title_block
+    (rev "1")
+    (company "Tom2rd")
+    (comment 1 "Design Template Tom2RD")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
